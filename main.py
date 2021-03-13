@@ -1,4 +1,4 @@
-"""Quadro v 0.4 / Author © s-evg"""
+"""Quadro v 0.4 / Author © s-evg / https://github.com/s-evg"""
 
 INFO = '''   \nДля решения квадратного уравнения
 вида: a*x**2 + b*x + c = 0
